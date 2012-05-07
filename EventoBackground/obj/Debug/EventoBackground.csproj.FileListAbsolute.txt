@@ -1,0 +1,5 @@
+c:\users\rafael poveda\documents\visual studio 2010\Projects\EventoBackground\EventoBackground\bin\EventoBackground.dll
+c:\users\rafael poveda\documents\visual studio 2010\Projects\EventoBackground\EventoBackground\bin\EventoBackground.pdb
+c:\users\rafael poveda\documents\visual studio 2010\Projects\EventoBackground\EventoBackground\obj\Debug\ResolveAssemblyReference.cache
+c:\users\rafael poveda\documents\visual studio 2010\Projects\EventoBackground\EventoBackground\obj\Debug\EventoBackground.dll
+c:\users\rafael poveda\documents\visual studio 2010\Projects\EventoBackground\EventoBackground\obj\Debug\EventoBackground.pdb
